@@ -1,0 +1,8 @@
+rootProject.name = theName
+
+include "BackOffice"
+include "Vehicle"
+include "Mobile"
+include "Services"
+include "Services:Authentication"
+include "Services:Booking"
