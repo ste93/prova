@@ -1,4 +1,0 @@
-rootProject.name = 'prova'
-include 'Jackson'
-include 'Test'
-
